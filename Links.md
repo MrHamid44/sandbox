@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-10 19:08 IR
+- 📥 [@controlengineers-hal-madar-2-jabedar.pdf](https://github.com/MrHamid44/sandbox/raw/main/dl/%40controlengineers-hal-madar-2-jabedar.pdf) `67.4MB`
+
+---
+
+
 ### 📅 2026-05-08 03:24 IR
 - 🗜️ [ldiag_5.26.0_windows_x64.exe.zip](https://github.com/MrHamid44/sandbox/raw/main/dl/ldiag_5.26.0_windows_x64.exe.zip) `36.1MB`
 
